@@ -1,0 +1,8 @@
+{
+  "config": {
+    "SOURCE_DECK": "",
+    "SOURCE_NOTE_TYPE": "",
+    "TARGET_NOTE_TYPE": "",
+    "DUE_DAY_LIMIT": ""
+  }
+}
